@@ -1,3 +1,5 @@
+/*Create an abstract class Shape with a method area(). Derive Circle and Rectangle from it and override the method. Write a main function to compute the area of both.*/
+
 abstract class Shape{
     abstract double area();
 }
